@@ -2424,6 +2424,11 @@ hash = "b8d11969b1c0a76392e33cdb64c75ea35828fb0fae95cf4f5d70db497c2eec23"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b0bb61105e0ac0c763edfa41ea5b0406f157bc17e421af1bf8b2cbb49325ced6"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "3465a5543e6edf4d7be27b833bd9a7333a61af3f48337cdbb5aba504d435c6a9"
 metafile = true
@@ -3565,6 +3570,11 @@ metafile = true
 [[files]]
 file = "mods/workers.pw.toml"
 hash = "1fd2fc83a9c54fecd44aeaf5ae917702efef90b5fcd597397226d1e2d110892d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
