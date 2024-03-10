@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "df41f99b1a4e6094b7a08ec24e52761b82a76865"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = false
+description = "Shows pings in numerics rather than bars"
+
 [update]
 [update.curseforge]
 file-id = 5075807
