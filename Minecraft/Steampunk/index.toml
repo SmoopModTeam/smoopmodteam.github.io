@@ -2209,6 +2209,11 @@ hash = "0dfdcfc3005a9f6e4544ae8a362a71868c61f77af2a00db27d1a1c8c2612ecfe"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "35d5951cb8ace2f79f222cf9145498d5702fe7612413241523c1da04bc3757da"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "a89d2e789613f03a9e32ec9c42a2470afb66816c02c14e6acbc0f771ef318852"
 metafile = true
