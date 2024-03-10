@@ -1,7 +1,7 @@
 name = "Better Ping Display"
 filename = "BetterPingDisplay-1.19-1.1.jar"
 side = "both"
-optional = TRUE
+optional = "true"
 
 [download]
 hash-format = "sha1"
