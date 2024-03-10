@@ -1,0 +1,13 @@
+name = "SteamPunkThree"
+author = "Arceus3251"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b87b26d8f51fcd7bca7fecfea9b728fd2d1903ac716873e256c0abc892d6fa6d"
+
+[versions]
+forge = "43.3.5"
+minecraft = "1.19.2"

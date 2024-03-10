@@ -1,0 +1,36 @@
+{
+	// For modpack creators. Enter your CurseForge project id here.
+	"curseProjectID": "",
+	// For modpack creators. Enter your 'Promo Code' here.
+	"promoCode": "",
+	// For modpack creators. The pregen size when selected during orders.
+	"pregenDiameter": 120,
+	// If the Multiplayer server list should have CreeperHost adverts.
+	"mpMenuEnabled": true,
+	// If the realms button should be replaced.
+	"replaceRealms": true,
+	// If the pause menu buttons should be moved around to insert the Open To Friends button.
+	"moveButtonsOnPauseMenu": true,
+	// If all chat messages should be logged to console.
+	"logChatToConsole": false,
+	// Create _VERY_ verbose logs. May create hugenorums log files.
+	"debugMode": false,
+	// Enables dumping all MTConnect packets to logs.
+	"dumpConnectPackets": false,
+	// If the Chat component of MineTogether is enabled.
+	"chatEnabled": true,
+	// If notifications for friends are enabled.
+	"friendNotifications": true,
+	// Enable / disable chat settings sliders.
+	"chatSettingsSliders": true,
+	// If menu buttons are enabled.
+	"mainMenuButtons": true,
+	// If pause screen buttons are enabled.
+	"pauseScreenButtons": true,
+	// INTERNAL: Marker for tracking first connections.
+	"firstConnect": "6EB95212C75A5BA23FD311463E4856E74657476F504079188E9F1CA976DFC69B",
+	// If not null, replaces the Bug Reports button on the pause screen to open this link.
+	"issueTrackerUrl": "https://pste.ch/",
+	// Stores the currently selected chat TAB, Ether VANILLA or PUBLIC
+	"selectedTab": "VANILLA",
+}

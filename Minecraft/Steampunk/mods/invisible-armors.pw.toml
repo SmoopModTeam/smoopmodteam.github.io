@@ -1,0 +1,13 @@
+name = "Invisible Armors"
+filename = "invisible_armors-1.19.2-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c27ae3c3cfa153466b08f40aeebbad54fd4eb8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4160788
+project-id = 638854
