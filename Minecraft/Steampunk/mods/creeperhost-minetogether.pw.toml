@@ -10,7 +10,7 @@ mode = "metadata:curseforge"
 [option]
 optional = true
 default = false
-description = "Shows pings in numerics rather than bars"
+description = "Allows easier multiplayer access"
 
 [update]
 [update.curseforge]
