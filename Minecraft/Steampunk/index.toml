@@ -2419,6 +2419,11 @@ hash = "7df140c5f0e486f53cd415eceb10d5dc60b83ba9e39a59c401d23c6c217d5d3e"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "7bf8c4d918248f48e456a4745e9a046064d4cb7edc1df2b2faf8fa9263f66556"
+metafile = true
+
+[[files]]
 file = "mods/create-compressed.pw.toml"
 hash = "90b21c8f2f81c708c959940f5ff3f019ef96f6fc072c062870161c9cdd0575ab"
 metafile = true
@@ -2919,6 +2924,11 @@ hash = "690238bbe50475a048b4d9dac7c9105a84957dabd9ae6768c2dad7ecd2ab67bf"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "52e48ec6907c9fba38819304325362bf532ceb904a838b75c29530480f11bc81"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-immersive-multiblocks.pw.toml"
 hash = "56904744466d783e1f30b2c48532f16928e01df110e1c801397d544840abba73"
 metafile = true
@@ -3045,6 +3055,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "9d25723296009a6495d0d9a75ee2bfc54e62dd43ea9ee113b391c629954637e8"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "1107357f27bb0b33921d00b2d85b3457e11978e19991c29f965a9d4f24a874a0"
 metafile = true
 
 [[files]]
@@ -3540,6 +3555,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "8d2c6294be2f0e0efcc0e7605456350cc061c4e7dac921c895dd3510d58cdbf5"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "ef88b4f00b3056cdb73014ceb6c6c9f4b2e414aa1d7d9841c6279c366cfff480"
 metafile = true
 
 [[files]]
