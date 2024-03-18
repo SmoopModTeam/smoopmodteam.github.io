@@ -2864,6 +2864,11 @@ hash = "248baf072f6c26accf8a82b923a2dc2e852d4d5ee26c614d185a7e7c18170278"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "f61c87f54714542ab5ff4674b035cc50480708f0c4664400ab35a9125026fb73"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "170923f5dccec76d44b9b06a0988af1ba21119125933d65ab67c3022c091557a"
 metafile = true
