@@ -2210,7 +2210,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display.pw.toml"
-hash = "b645a1b39599695ffe1159643089629fb937694de549ae6d879ef08b170a5c4a"
+hash = "38e354cc69444056720a8946c3997dbe5d85f60066578f28fa74ed2f3a0f1893"
 metafile = true
 
 [[files]]
@@ -2500,7 +2500,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeperhost-minetogether.pw.toml"
-hash = "604c84be8f8fc3e64ebc977534e91bd8be9f92d436e155f8088f143a3817578e"
+hash = "b1e187debfbbd8afbe03c17e02bf534988c1eca602e48d231d041ceab03ac0b5"
 metafile = true
 
 [[files]]
