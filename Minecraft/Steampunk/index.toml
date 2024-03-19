@@ -2210,7 +2210,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display.pw.toml"
-hash = "38e354cc69444056720a8946c3997dbe5d85f60066578f28fa74ed2f3a0f1893"
+hash = "276016f6de6b533bd57597bc03768bc42e0bc5eae0ac2ba6c9723162c5102052"
 metafile = true
 
 [[files]]
