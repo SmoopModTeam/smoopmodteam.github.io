@@ -2250,7 +2250,7 @@ metafile = true
 
 [[files]]
 file = "mods/bocchium.pw.toml"
-hash = "fca060d375eeed2f1aef73740b347f5ee9bf6ea8a429f99d576f32e818aaae16"
+hash = "15a8b68d813e67cb84be426655e71743a28f573dfe501b96468cfd90b42720a9"
 metafile = true
 
 [[files]]
@@ -2370,7 +2370,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectedness.pw.toml"
-hash = "4304b63b8ccd8ae34ad528f63d9c6b54c6e7cadacbd3326ed3cd7bb1d5213595"
+hash = "7bb6482ff3ce0f7771c8d7c5600216933ec579c744f266c3b8be8c3d0af6b0da"
 metafile = true
 
 [[files]]
@@ -2645,7 +2645,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b5c1339be01bb097abd574b643ad0360942ba3c4cefe2ccc5b4ff0cd38a5efc2"
+hash = "509276084e93976d47320863c8672e8b306e5e3612bca9a91bcd1dd2dc45932a"
 metafile = true
 
 [[files]]
@@ -2670,7 +2670,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "f27b636e4dfe3dad6e8dcbd527e52ee87c2faed7674f58174d030cb860b6c668"
+hash = "99337b8432f0469e5c9e5e091191a26a909a13277043de7604ead4e6aad62b9b"
 metafile = true
 
 [[files]]
@@ -2980,7 +2980,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "94184f6d3c1fd64f3b79ebf4cb2474bd71dc0651117d8c605942490b1cd518b8"
+hash = "e01b80a9797007df118caea7f9b87d6b426cbe7c15f23517e0cd220845141463"
 metafile = true
 
 [[files]]
@@ -3005,7 +3005,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-journal.pw.toml"
-hash = "7221d6a35cb33876610e5dbe37c50ce59089bf30c2ad3315622bab48e12123f5"
+hash = "a8f5f859380d3300f17305dd1a86da8f76e21838ad95ea1c38f46b05556aefa7"
 metafile = true
 
 [[files]]
@@ -3079,12 +3079,12 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "0a05a79fe9dbd7557ebdbbeb7bdb09e12426062dcd5031a7217a74e868595573"
+hash = "88ad2710aa5bf4484b75c20f447f1f8de0c6a58c5b3afa144a6b79e22f6b57ef"
 metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "49d56d76531eb631ea7978fa52729325a41c262d20fa605f7fa2732f5521f126"
+hash = "f9aacce691fc98b2d6a72c3c0fd4c5d1ee735f906fa9fceb45d20d823acac4e2"
 metafile = true
 
 [[files]]
@@ -3124,7 +3124,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "ad5ea7db099e46fb75851c3ec91393256006c78e55eb4615ca7c764f1668e2e8"
+hash = "e7843e20e052f74f69cb82db6613b83ff2394f25541b1b501ae8838cab755ca4"
 metafile = true
 
 [[files]]
@@ -3279,7 +3279,7 @@ metafile = true
 
 [[files]]
 file = "mods/reforgium.pw.toml"
-hash = "dd102ab1298ca331c3b6226bf45f23e37a3a690a4d98b959fa1a2aa6488cb43a"
+hash = "66fc910e71bc101ef51d9f8b5cef6cae2d7f00e80c13694dd724c916a5abf8dc"
 metafile = true
 
 [[files]]
@@ -3309,7 +3309,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
-hash = "aacf9c955085339871019675fd89a812c5dca804a861418f38d2772a93385fa2"
+hash = "cd60ce41d4af3393e09b43e14c0bbfa3962023631b58cb22fff8a5404117d45d"
 metafile = true
 
 [[files]]
