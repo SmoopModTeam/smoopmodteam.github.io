@@ -1,6 +1,6 @@
 name = "Curtain"
 filename = "curtain-mc1.19.2-1.3.2.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"
