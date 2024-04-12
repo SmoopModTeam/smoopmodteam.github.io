@@ -1,0 +1,13 @@
+name = "Curtain"
+filename = "curtain-mc1.19.2-1.3.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "7611b8548572dcd6ccddf774bf8d3203181b80f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4704531
+project-id = 845348
