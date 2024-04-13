@@ -2429,6 +2429,11 @@ hash = "90b21c8f2f81c708c959940f5ff3f019ef96f6fc072c062870161c9cdd0575ab"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "e8f6b748eb82d1c167261b93b0290b40dc465ba76be15a00a7ad3df527de9dc5"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "b8d11969b1c0a76392e33cdb64c75ea35828fb0fae95cf4f5d70db497c2eec23"
 metafile = true
@@ -2485,7 +2490,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "e84904ac0f90c6534790baba7e3b8d74905113732164bff5b2ce143df6336065"
+hash = "b5ca52bec6787e024470b9d69fe357497edf8ba0141426c1e92db34303df7f8e"
 metafile = true
 
 [[files]]
@@ -2721,6 +2726,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "96b0541c94b28e9875b7134bc410e23540a2553c05f11cc5776649f8256b2477"
 metafile = true
 
 [[files]]
