@@ -1,0 +1,13 @@
+name = "Selectable Painting"
+filename = "SelectablePainting-1.19.2-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e453aaf43c4abda33ca4c739d925aeb993b9e4ec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4561124
+project-id = 388638

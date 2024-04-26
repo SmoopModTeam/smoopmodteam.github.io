@@ -2353,6 +2353,11 @@ hash = "d4ca235c0d8856e8c0c33a251f7d9b6dc1d69db1651e16ebd6bc6ebafef1c1bd"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+hash = "8ad527bbe4a7a481f6c143e343c76e56d3c86defe62889fe6ee5b1c8f6571cdb"
+metafile = true
+
+[[files]]
 file = "mods/cold-sweat.pw.toml"
 hash = "3c57a87c78ad0e4b14aae85222155943ca54ddd08c50579692b01d49b289ac9e"
 metafile = true
@@ -2485,6 +2490,11 @@ metafile = true
 [[files]]
 file = "mods/create-planetary-tweaks.pw.toml"
 hash = "c8634f10b2625d10f73aa5add86ee7a45226f8323241e1b148e29c9545db9e02"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "7fb13189c2bab008ab22afaafa12100a30c06c94bb8a1caacffb1939af78f097"
 metafile = true
 
 [[files]]
@@ -3162,11 +3172,6 @@ hash = "e276eac44a7c2442ce6f8dc7788c977116471a49693323c06d32f63e04bf4fbc"
 metafile = true
 
 [[files]]
-file = "mods/paintings.pw.toml"
-hash = "0c32905de66cdd5432130820b5394092d5bc8033fde97f4fea124edfda07b535"
-metafile = true
-
-[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "27466530be354cf40f0e2d665732a9610f404c12f6a3928763c092b07fed8626"
 metafile = true
@@ -3334,6 +3339,11 @@ metafile = true
 [[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "16741d292d5149cfcdd1a9d561671ee6ac21b55c30172744c3bc446f86e57109"
+metafile = true
+
+[[files]]
+file = "mods/selectable-painting.pw.toml"
+hash = "65559de7be75eacaa5638745136abb5b23e40b90f586dca3d78fccf04f0db66a"
 metafile = true
 
 [[files]]
