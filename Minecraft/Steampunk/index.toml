@@ -2609,7 +2609,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "eaff412bac6d9e22939bda465599df6932ffb68ea0f027acb5084e8f79936f1a"
+hash = "4e9f62a26e1917e9705b5728b7ae8fdb5f16c8f554cbdf249a2c98f6c0f8d5ea"
 metafile = true
 
 [[files]]
@@ -2744,7 +2744,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "96b0541c94b28e9875b7134bc410e23540a2553c05f11cc5776649f8256b2477"
+hash = "f26e7780918a37bbc46f12aec695adc630d3a708ccedc844ced0360d32ee1aa3"
 metafile = true
 
 [[files]]
