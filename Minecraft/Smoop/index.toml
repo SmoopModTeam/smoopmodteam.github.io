@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Better-Combat-Bewitchment-Compat.jar"
-hash = "05effb7b6d320daff7e37c566507be2a7ba71c8402ed33ec7e324ec9a9893c31"
-
-[[files]]
-file = "mods/BingBingWahoo-4.2.6-build.132-mc1.20.1.jar"
-hash = "31c4dacb9f3a10f5f445995fde4d85ca537a9333b2388ac485ab2ac59a1ef20f"
-
-[[files]]
-file = "mods/Clumps-fabric-1.20.1-12.0.0.4.jar"
-hash = "2eb70931dee86cef68c8538b8284c684225964632cd10e636ea938af6f66e6f7"
-
-[[files]]
-file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
-hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
-
-[[files]]
-file = "mods/Searchables-fabric-1.20.1-1.0.3.jar"
-hash = "f32e0b0c9bebc99944ddc6a9dba8f8336af666aaba151c6839b8353a2acdd53a"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "dc17dd2a2579d1df2f2840c8bf23cec0cd9ef89ef6b6e623a81da6a4e3273406"
 metafile = true
@@ -106,6 +86,11 @@ hash = "2f44ef7d4597f72f70877fe9b555ecdfe2bf882f96f712d9bbcd1dab8d951544"
 metafile = true
 
 [[files]]
+file = "mods/bcbc.pw.toml"
+hash = "b3f98ecce9ba4f90f371ef0c0ebbeedf81932b5c5832ad1e6fe9104b5d9a4287"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
 metafile = true
@@ -113,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "93d8db3c64f1770e62a847782836a57996b3ce4f7a4462cf084e42c4f83d19ee"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "8661452972ef497ed18fc5ef81e3ab8aababe1e40ece7df049dd47c77e7b52e0"
 metafile = true
 
 [[files]]
@@ -132,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "daf8030dfb7a2c8c335982310e387a4a6825b26b340bbabc904a3895a9eea77a"
+hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
 metafile = true
 
 [[files]]
@@ -186,12 +176,13 @@ hash = "5e96138dce35e95b6efd048968440332a42c8c6d3bafe384cc303c18f073da31"
 metafile = true
 
 [[files]]
-file = "mods/chalk-2.2.4.jar"
-hash = "9993f2e5d645e3c834fbdfbea2fc626980ea50d1fb766f12837bc73390a12174"
-
-[[files]]
 file = "mods/chalk-fabric-colorful-addon.pw.toml"
 hash = "98d9115f246db163f2cd4a27776ac175ce22955b8b63e8f9b8d9d8bdbf4e1eaf"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "6813cfc18a8812f00b3f6a7c5d01a02828b109d8c394f2c1b01bd5960c241120"
 metafile = true
 
 [[files]]
@@ -205,12 +196,13 @@ hash = "c56e5330dc4d392dc89aeb54f8a195ba58faa962e55d539f456af2fd542561da"
 metafile = true
 
 [[files]]
-file = "mods/clockwork-1.20.1-0.1.16-fabric-b3b22e39fe.jar"
-hash = "6939450ca2c5f68b1c056cdd77531a50d2cb8b39f6612cad0c36f73e3a548158"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
@@ -229,6 +221,11 @@ hash = "dd7f29bd999b052f551b8e1cc56c26fd98914c417213195e0b0eefa24f7445c8"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "ac9de04745c3dc2462fe095088220507ecb8602240a3f07950968418a08a660d"
 metafile = true
@@ -236,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "7a95ecb6c1b2e4263d7b3d80aaf6f23d66dfa0359a01a0c223d6375d767380ee"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "e083e8da620315b21fb76fef352eb887aa849d8c8be2ac268251b0b386eb95ba"
 metafile = true
 
 [[files]]
@@ -250,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
@@ -364,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -586,8 +588,9 @@ hash = "0e3ba214541f37a2a7b79cc2e3d89783b7aa2ebd704c9a38e58a0b606cb71141"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-fabric-1.17--1.1.5.jar"
-hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -680,6 +683,11 @@ hash = "3b9fd21ad78374f9b892d37f12c8daf76278cb53f355b09c713490225683c0b3"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "4f6f15b3a17ed28772fe45a7cb15783a37428b259d2461564c9046b5a3540e25"
 metafile = true
@@ -735,10 +743,6 @@ hash = "59f49e8c23b13da62a8eb0b19127ae1de0a0cd2dff0e8483318ef56742972f76"
 metafile = true
 
 [[files]]
-file = "mods/tournament-fabric-1.1.0_beta-4-1b50cf665b.jar"
-hash = "64c4eab0e0cc46ae1c441db01ade43c6b141ca49d4e47cb27f701f75d725dedd"
-
-[[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
 hash = "4aaf0d3c354a1806b3c9e9e10afa850eed4031b4e368d394415d5ec5142854e3"
 metafile = true
@@ -750,7 +754,17 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "b2201491a26e4c814e48c9bace0b4850cac23e950a843e413d8be2240127dc0f"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
+metafile = true
+
+[[files]]
+file = "mods/vs-tournament.pw.toml"
+hash = "95a722088a1e2cfc19d99a2d51e6acb57b160f597e06b524063cfbd032789baa"
+metafile = true
+
+[[files]]
+file = "mods/wahoo.pw.toml"
+hash = "3ce78fae2cfddf385332a06bd31dc311f746385806e7d38863f6e219525e4c33"
 metafile = true
 
 [[files]]
