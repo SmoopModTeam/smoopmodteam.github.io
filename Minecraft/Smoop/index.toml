@@ -231,6 +231,11 @@ hash = "ac9de04745c3dc2462fe095088220507ecb8602240a3f07950968418a08a660d"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "7a95ecb6c1b2e4263d7b3d80aaf6f23d66dfa0359a01a0c223d6375d767380ee"
 metafile = true
@@ -468,6 +473,11 @@ hash = "0ba785ddde0896bd5e5c9e6bbb6f3ac762e4ba56125e3ea4099c6ad442cd579b"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "e97140c4d24653e902609c256a6b9623ef33347196d67b1c3fce3ad25423701c"
+metafile = true
+
+[[files]]
 file = "mods/jewelry.pw.toml"
 hash = "fb7f48f213efb6a1a715007208c289e6578a1b768b710c170f846c1d2b80899c"
 metafile = true
@@ -605,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "781bc89a78c823af43bdd46b74f9b1a6f76855b45fbfe469e50233bd889b27ff"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
