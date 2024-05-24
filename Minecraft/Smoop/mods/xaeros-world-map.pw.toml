@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/NcUtCpym/versions/GOh0fFoJ/XaerosWorldMap_1
 hash-format = "sha1"
 hash = "2f43d0560a1b1f8efd09fb1a533f4d7090c071ab"
 
+[option]
+optional = true
+default = true
+description = "Xaero's World Map"
+
 [update]
 [update.modrinth]
 mod-id = "NcUtCpym"

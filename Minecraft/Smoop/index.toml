@@ -496,6 +496,11 @@ hash = "fb7f48f213efb6a1a715007208c289e6578a1b768b710c170f846c1d2b80899c"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "51477b43b2daebd5f584d46313ce5036d8753e1b243b936141b9f6a2285cd800"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "e878f32f538088bd287eb104a95b98e219fbd950456cfc63811e0a95cb04ec2f"
 metafile = true
@@ -812,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d71dabaf362ddbae6f8fd3a8bb648b20b57bde93a1a59232c98da9e5403203d6"
+hash = "f29dc9d69694c2485cbe658e6bd8b15b6d68b6f4891bb95cc1a2d47c72a2b414"
 metafile = true
 
 [[files]]
