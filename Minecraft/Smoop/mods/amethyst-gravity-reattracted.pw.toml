@@ -3,11 +3,11 @@ filename = "amethyst-gravity-reattracted-2.0.0+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/1h2ZthRl/versions/7orhNjz4/amethyst-gravity-reattracted-2.0.0%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "299454249488024f6c3c91dabb788eca773fe6d9"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4976171
-project-id = 953013
+[update.modrinth]
+mod-id = "1h2ZthRl"
+version = "7orhNjz4"

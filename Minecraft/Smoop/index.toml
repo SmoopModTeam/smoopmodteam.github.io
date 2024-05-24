@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/amethyst-gravity-reattracted.pw.toml"
-hash = "37c45ca69fee69a73b427456f8fbc4b349f06a02f4fd2466bb341f5a73126778"
+hash = "c0d39a4f488517cc69fef590f2c23945cfd284e2c6b5e6a6f9f371b33eaff7ca"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -331,8 +331,9 @@ hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
-file = "mods/essential_1-3-1-3_fabric_1-20-1.jar"
-hash = "f3efc415f73855faae5e3a89cb56f081c0fd3b99d1b2131a5b0b254a833b312e"
+file = "mods/essential.pw.toml"
+hash = "761d376d1b3ded0d13204b9c6b77ee3a396846b109399088117431208067c452"
+metafile = true
 
 [[files]]
 file = "mods/eureka-ships.pw.toml"
@@ -371,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
+hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
@@ -430,12 +431,14 @@ hash = "d47b36a229668694e6697a97d8fb2fa70fcf9d3f6dcc4f3ab6cddaf5c541fa83"
 metafile = true
 
 [[files]]
-file = "mods/grapplemod-1.99.0-1.20.1.beta.fabric.jar"
-hash = "5ba39a69266c8676974e4c26cb1d9bd5e2b94ef815dc451920f5026e443dd6da"
+file = "mods/grappling-hook-mod-fabric.pw.toml"
+hash = "985facad5abe2519902bc588347cc18cc009f24e58764a4ae8da0beaa4ce10f8"
+metafile = true
 
 [[files]]
-file = "mods/gravity-changer-1.1.2-mc1.20.1.jar"
-hash = "f7548163dbc68f1fa82fed85453178ce2881f7bf3cd97334136f0c1ac11153b8"
+file = "mods/gravity-api-fork.pw.toml"
+hash = "ed4f9111816e20f749d06fe714ca5b0841fa0e884e1761a8df66ac20bd37b8ba"
+metafile = true
 
 [[files]]
 file = "mods/hephaestus-fabric.pw.toml"
