@@ -1,0 +1,13 @@
+name = "Create Slice & Dice"
+filename = "sliceanddice-fabric-3.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbaa811244806239526b44dd313ffdf30b11bc7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5271635
+project-id = 659674
