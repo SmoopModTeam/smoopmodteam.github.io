@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
+hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
 metafile = true
 
 [[files]]
@@ -440,6 +440,11 @@ hash = "f7548163dbc68f1fa82fed85453178ce2881f7bf3cd97334136f0c1ac11153b8"
 [[files]]
 file = "mods/hephaestus-fabric.pw.toml"
 hash = "4f8ec04410e14ff833cb745923c219567081e0ba0217d2233b70c4cd28d3a1f2"
+metafile = true
+
+[[files]]
+file = "mods/iammusicplayer.pw.toml"
+hash = "a680ea5281b00528c39068fd6df1c6e69ad235265ae14defeee8763ab1a888a1"
 metafile = true
 
 [[files]]
@@ -625,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/numismatics.pw.toml"
 hash = "148dbdd30b1265ffa4396cfd41f8937cd172004aeb78769ec3e3a5fc048e5422"
+metafile = true
+
+[[files]]
+file = "mods/otyacraft-engine.pw.toml"
+hash = "59b5d0a5c10e69eb53068ad2c47e9d85a2999bd4ce3f59878c9c70826fc437a4"
 metafile = true
 
 [[files]]
