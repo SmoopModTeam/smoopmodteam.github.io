@@ -161,6 +161,11 @@ hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "d0bb46ce327083131cae1f7803f4052e4121c9d5ab27bd73ed3b747733f8f97b"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "d73e5e5aa579040b68490cca25c87e2cf022782654ad842c990ae1a1b3b44df7"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
 metafile = true
 
 [[files]]
@@ -376,6 +386,11 @@ hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "cd986e98aac95acc197104599898c46a0d03972477a5f79a0b5575b7837342e1"
 metafile = true
@@ -396,6 +411,11 @@ hash = "5ac38dea16ddf7d73810e0528e52a8382bb71060c4191d2969d4408356ed56fe"
 metafile = true
 
 [[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "3a552b4498c84d2009bad5626577cf44fb37ee780735dac96041eea61f445aa2"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks-fabric.pw.toml"
 hash = "02971e2494980c33169117597d01a119d3d619e62648d0e7b0b6b79f59c04059"
 metafile = true
@@ -413,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "5622ca6faf2d4d237d429a679b4e17be1ddb5e7d3bd0e85dd887531d85d8d659"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "0aab95585cd52ca54a583aa5db53395633cd88bbc309a2b09f45d623771241c2"
 metafile = true
 
 [[files]]
@@ -681,6 +706,11 @@ hash = "51d3460d29be54a02d02f879ec5b3f916a5239c5a8a81b978a2fbe88e36f7ad7"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "4114b9fa83b7e3419215e8c5a79699e4de324b29115b4e7856a71b4df6ce1c84"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -733,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "4f6f15b3a17ed28772fe45a7cb15783a37428b259d2461564c9046b5a3540e25"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
 metafile = true
 
 [[files]]
