@@ -861,11 +861,6 @@ hash = "72cfc9cce71fde609e5e84eba20363c8b9f1072ca6ec932f756495641273d175"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "f29dc9d69694c2485cbe658e6bd8b15b6d68b6f4891bb95cc1a2d47c72a2b414"
-metafile = true
-
-[[files]]
 file = "mods/xxl-packets.pw.toml"
 hash = "666403a5de32bd4a43d58bc2b6b2dc2dffbcc3a5a722d9a0ab2165b90a2dabc5"
 metafile = true
