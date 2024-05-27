@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "01075a17ec6a6d7b62dcc16ddededd161679b0ffebdae310401d4a579f1d75db"
+hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
 metafile = true
 
 [[files]]
@@ -373,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "ff360ba97565b8efba9387e2b9a267937634568a8d56c39ae8711701ab499c3d"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
 metafile = true
 
 [[files]]
