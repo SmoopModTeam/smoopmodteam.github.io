@@ -11,6 +11,11 @@ hash = "7b761f6ed4434ca9137777989add9400e0ab8eb9f0993a625a061b0afc0adf36"
 metafile = true
 
 [[files]]
+file = "mods/ae2-emi-crafting-integration.pw.toml"
+hash = "5ed5dc27fa616884f1a26e9aae94bd815f37d78d4f66af1c82ebb88b8f3a7d79"
+metafile = true
+
+[[files]]
 file = "mods/ae2cc-bridge.pw.toml"
 hash = "53064357e0fcf2818eb0e2600d48ff8cfafaf104b0d7bd8ba1d88e5cb762d965"
 metafile = true
@@ -148,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "938dedd6b8da990018f2e4df0bee0c63c676eaef9673d6390e2def255a04bd48"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "dfb633f2c8caea628d11741fb1463508fcc228e264a1a76e93cc099f57c4886c"
 metafile = true
 
 [[files]]
