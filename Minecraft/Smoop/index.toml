@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
+hash = "5ac6cf8e4c3185a858665183f77b052f850dca543989fadb47466958ba950697"
 metafile = true
 
 [[files]]
