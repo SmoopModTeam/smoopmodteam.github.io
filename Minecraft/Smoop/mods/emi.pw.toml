@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/spghOu2N/emi-1.1.6%2B1.20
 hash-format = "sha1"
 hash = "8ddbf004ebdb9f6518651ef3fffe02157f7300b2"
 
+[option]
+optional = true
+default = true
+description = "EMI is more stable on lesser machines, but lacks features"
+
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"

@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "1a8d8e4a58c9be517c05c14f36c7d663f65a569f"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Leave checked if using EMI"
+
 [update]
 [update.curseforge]
 file-id = 5160115

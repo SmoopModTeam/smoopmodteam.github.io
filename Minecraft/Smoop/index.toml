@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-emi-crafting-integration.pw.toml"
-hash = "5ed5dc27fa616884f1a26e9aae94bd815f37d78d4f66af1c82ebb88b8f3a7d79"
+hash = "0825d286765724d9ed5f1f2df92bd0dc6f7805189c85c83fd128ad413b68803a"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
+hash = "b084a1536f8b817f660f67535662a4a39b2525cf6be906f1a50f1d4151bc72e9"
 metafile = true
 
 [[files]]
@@ -733,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/reborncore.pw.toml"
 hash = "adf39f52030ad2042392dcf00752c15042c86bb16ba823a10e15e333565ba1b1"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "45f242e944a475d39ec8724ebf4e1bb0d70439d3a1326c4cafdf9dd14b74261f"
 metafile = true
 
 [[files]]
