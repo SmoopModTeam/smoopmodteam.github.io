@@ -196,6 +196,11 @@ hash = "411ffcb97018d6ed1cf6d3d696454c74a7ae1f0c879b1070448e8dc510a1df0c"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "17c8ba2c2cedd4228f5fe0ca7b26b1193cf4bb36624a88bb24e1e1c41dbe90b8"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "c56e5330dc4d392dc89aeb54f8a195ba58faa962e55d539f456af2fd542561da"
 metafile = true
@@ -387,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
+hash = "b2add68278027f1d23ca7fd0440ea686faa37d6ccefd55dc064bac9e6f93de54"
 metafile = true
 
 [[files]]
@@ -673,6 +678,11 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "dbd2bdc74240032262a8e7cf09ac6469fede12e8e6d88aca439640811f8a5d5a"
 metafile = true
 
 [[files]]
