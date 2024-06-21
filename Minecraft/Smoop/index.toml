@@ -521,8 +521,13 @@ hash = "e97140c4d24653e902609c256a6b9623ef33347196d67b1c3fce3ad25423701c"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "930e948fb1e1852f70088de61bda675623f38d48b3312cdec219033b1bbd8247"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "48f23a8539266331245eb2a91cb79646e6e421475328a0736c8c003ed5b02066"
+hash = "1b28aada008cd71cf9c0da126b5d04e82295f39f08f25adacdffaf2f5e06447f"
 metafile = true
 
 [[files]]
@@ -877,7 +882,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "72cfc9cce71fde609e5e84eba20363c8b9f1072ca6ec932f756495641273d175"
+hash = "ba081f4994704cecb2acd7822fbcd6c66c243d5da157f82b7fe9d412fa93f0f9"
 metafile = true
 
 [[files]]
