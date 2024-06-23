@@ -861,6 +861,11 @@ hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
+file = "mods/true-ending.pw.toml"
+hash = "315b4cd48761c791250d313c91f1e5e5d170b3b3f62612288400f34f04913ab2"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
