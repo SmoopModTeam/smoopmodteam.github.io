@@ -226,6 +226,11 @@ hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-unimplemented-items.pw.toml"
+hash = "c0cca79ddd425ab1085908284851247739606e702985d566f9e340e7014e9d67"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "abc57f063554e33a6bdd8b6aa39980293b1788fe4daea7f4d9cf215383d13145"
 metafile = true
