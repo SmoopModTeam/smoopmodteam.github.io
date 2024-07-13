@@ -176,6 +176,11 @@ hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "d0bb46ce327083131cae1f7803f4052e4121c9d5ab27bd73ed3b747733f8f97b"
 metafile = true
@@ -253,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "318590afc60d90c39271890d5f958ffdd06a20f300353b98f064774ff1f9c042"
 metafile = true
 
 [[files]]
