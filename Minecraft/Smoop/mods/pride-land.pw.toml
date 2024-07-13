@@ -1,0 +1,13 @@
+name = "Pride Land (LGBT / LGBTQIA)"
+filename = "pride_land-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6EFknZnS/versions/G4yxiMg2/pride_land-1.0.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "ce19f19d3430ea7c2ecd8ff20cbea220fcbc68f9"
+
+[update]
+[update.modrinth]
+mod-id = "6EFknZnS"
+version = "G4yxiMg2"

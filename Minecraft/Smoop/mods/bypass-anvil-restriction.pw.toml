@@ -1,0 +1,13 @@
+name = "Bypass Anvil Restriction"
+filename = "BypassAnvilRestriction-1.0.7+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wYbclck4/versions/dy2199ec/BypassAnvilRestriction-1.0.7%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "4bceb06163a7626e2fde5e5819a10295fe9d61b5"
+
+[update]
+[update.modrinth]
+mod-id = "wYbclck4"
+version = "dy2199ec"
