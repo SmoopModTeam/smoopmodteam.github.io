@@ -326,11 +326,6 @@ hash = "4a43a88dc6fc605058ed7211999685379fc32bf5341c644593b918a9ffb31361"
 metafile = true
 
 [[files]]
-file = "mods/custom-player-models-fabric.pw.toml"
-hash = "aa4cd3134684eb47ab5625b42204fd86de6de07b422bb6ab417a4d3dd6cdbbf5"
-metafile = true
-
-[[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "463b41c5825e272a6250145b9e9ca21c118abb2eba68192811ffe601591241ea"
 metafile = true
