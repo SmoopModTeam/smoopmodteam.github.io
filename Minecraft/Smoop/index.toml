@@ -441,16 +441,6 @@ hash = "3a552b4498c84d2009bad5626577cf44fb37ee780735dac96041eea61f445aa2"
 metafile = true
 
 [[files]]
-file = "mods/flan-cobblemon-extension.pw.toml"
-hash = "c16c311da38690da9d1b82845ad8a1630a47726c5fb9688af4bf05b42f3ec011"
-metafile = true
-
-[[files]]
-file = "mods/flan.pw.toml"
-hash = "ad413d8886d711b0a68d12c1c748537196ae5a49e3abfb46f20f43b1cedd93f4"
-metafile = true
-
-[[files]]
 file = "mods/flux-networks-fabric.pw.toml"
 hash = "02971e2494980c33169117597d01a119d3d619e62648d0e7b0b6b79f59c04059"
 metafile = true
