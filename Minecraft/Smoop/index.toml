@@ -771,11 +771,6 @@ hash = "51d3460d29be54a02d02f879ec5b3f916a5239c5a8a81b978a2fbe88e36f7ad7"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "4114b9fa83b7e3419215e8c5a79699e4de324b29115b4e7856a71b4df6ce1c84"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
