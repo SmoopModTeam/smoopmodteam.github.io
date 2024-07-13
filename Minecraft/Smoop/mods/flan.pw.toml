@@ -1,13 +1,13 @@
 name = "Flan"
-filename = "flan-1.20.1-1.10.6-fabric.jar"
+filename = "flan-1.20.1-1.8.11-forge.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/Si383TIH/versions/26NweuRc/flan-1.20.1-1.10.6-fabric.jar"
+url = "https://cdn.modrinth.com/data/Si383TIH/versions/XVGSmt5Q/flan-1.20.1-1.8.11-forge.jar"
 hash-format = "sha1"
-hash = "5d225a4b5fd09d8c041d3c26804436b8e56e5478"
+hash = "a81d19308da4025c079dee64aad42a2fae0a2212"
 
 [update]
 [update.modrinth]
 mod-id = "Si383TIH"
-version = "26NweuRc"
+version = "XVGSmt5Q"

@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan.pw.toml"
-hash = "a1a5e972622a0f495aa45e71f996545d78ee06a264f5117a51491f71b131307a"
+hash = "bc09c6628f91640ac80a91e4e4aa9288f6cc58181becb6ba28b65870074624ad"
 metafile = true
 
 [[files]]
