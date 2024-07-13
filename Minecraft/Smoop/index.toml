@@ -731,11 +731,6 @@ hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
-file = "mods/neruina.pw.toml"
-hash = "dbd2bdc74240032262a8e7cf09ac6469fede12e8e6d88aca439640811f8a5d5a"
-metafile = true
-
-[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "148dbdd30b1265ffa4396cfd41f8937cd172004aeb78769ec3e3a5fc048e5422"
 metafile = true
