@@ -1,13 +1,13 @@
 name = "Measurements"
-filename = "Measurements-forge-1.20.1-2.0.0.jar"
+filename = "Measurements-fabric-1.20.1-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wLINU2AB/versions/EHwSQ3lX/Measurements-forge-1.20.1-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/wLINU2AB/versions/g7pkxAmx/Measurements-fabric-1.20.1-2.0.0.jar"
 hash-format = "sha1"
-hash = "9d630242698067214d354ee6f1059d4ea56c36dd"
+hash = "1b9708378ea75f00aa317ab9fec6c9de3c4dfcf2"
 
 [update]
 [update.modrinth]
 mod-id = "wLINU2AB"
-version = "EHwSQ3lX"
+version = "g7pkxAmx"

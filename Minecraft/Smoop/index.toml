@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/measurements.pw.toml"
-hash = "fdbb444431bcc96a17f21fee6f069985b257a19b718a639fdcc2d03fa137e932"
+hash = "1b9f7838512f33b41d20ec1353893382767072e9587d7d30389f679225066a9f"
 metafile = true
 
 [[files]]
