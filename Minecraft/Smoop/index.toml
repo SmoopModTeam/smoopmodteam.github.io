@@ -431,6 +431,11 @@ hash = "ea99a6e82af6a00b7050f66529ae0c506cafa90bb04efa275e2a9aa38ce4d7c0"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "142ea053dc355fc9c8fee8d46cb702a7b076b78206c88c632e5d5355e76b1250"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "cd986e98aac95acc197104599898c46a0d03972477a5f79a0b5575b7837342e1"
 metafile = true
