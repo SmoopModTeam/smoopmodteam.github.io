@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "ea99a6e82af6a00b7050f66529ae0c506cafa90bb04efa275e2a9aa38ce4d7c0"
 metafile = true
 
 [[files]]
@@ -453,6 +453,16 @@ metafile = true
 [[files]]
 file = "mods/fixed-anvil-repair-cost.pw.toml"
 hash = "3a552b4498c84d2009bad5626577cf44fb37ee780735dac96041eea61f445aa2"
+metafile = true
+
+[[files]]
+file = "mods/flan-cobblemon-extension.pw.toml"
+hash = "c16c311da38690da9d1b82845ad8a1630a47726c5fb9688af4bf05b42f3ec011"
+metafile = true
+
+[[files]]
+file = "mods/flan.pw.toml"
+hash = "ad413d8886d711b0a68d12c1c748537196ae5a49e3abfb46f20f43b1cedd93f4"
 metafile = true
 
 [[files]]
