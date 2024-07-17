@@ -7,6 +7,11 @@ hash-format = "sha1"
 hash = "32efa39aeaac78c94fbd8c74159443c6f4bbb19a"
 mode = "metadata:curseforge"
 
+[option]
+optional = true
+default = true
+description = "Iris Compatibility for Flywheel"
+
 [update]
 [update.curseforge]
 file-id = 5120037
