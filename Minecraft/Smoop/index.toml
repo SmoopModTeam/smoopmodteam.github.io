@@ -835,6 +835,11 @@ hash = "3b9fd21ad78374f9b892d37f12c8daf76278cb53f355b09c713490225683c0b3"
 metafile = true
 
 [[files]]
+file = "mods/saros-road-blocks.pw.toml"
+hash = "f4f0e0297d05dca960d7247c439aae5ac891df5c2fb87a5b7d09afe9f0463b07"
+metafile = true
+
+[[files]]
 file = "mods/saros-road-signs.pw.toml"
 hash = "57f4cd3782892fa623639c6935c4454348a1486cbbd50284651a5aafccdc1a85"
 metafile = true
