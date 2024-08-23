@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "datapacks/example_datapack.zip"
-hash = "b5291c3b478179b070675f2c961bbfbadcc0014588401a6fc2c5c71c4ccdd9b3"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "8c9265f70a829f15771c748f6a89fef07ef8d89677c78a51d61c977ea8f856e7"
 metafile = true
