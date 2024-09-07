@@ -591,11 +591,6 @@ hash = "e878f32f538088bd287eb104a95b98e219fbd950456cfc63811e0a95cb04ec2f"
 metafile = true
 
 [[files]]
-file = "mods/led.pw.toml"
-hash = "7fdbdab1d4222498d38f77dab2a7f258d3b95a6a542cc17afe832d4f309b833f"
-metafile = true
-
-[[files]]
 file = "mods/let-me-despawn.pw.toml"
 hash = "e4ea8b4858171d25a461833cb0944b34c8d3403119e7a5d83309c0c56f5ee4f8"
 metafile = true
