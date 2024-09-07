@@ -286,6 +286,11 @@ hash = "e083e8da620315b21fb76fef352eb887aa849d8c8be2ac268251b0b386eb95ba"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "04d95de568270ce6b115aefb77dd9a8a9511398d4305f1ca2798310b75851e67"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "8eb262e41270d2dc38033a31e68ce9e80d664c5912afd95193c4158d7641c062"
 metafile = true
@@ -848,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "4f6f15b3a17ed28772fe45a7cb15783a37428b259d2461564c9046b5a3540e25"
+metafile = true
+
+[[files]]
+file = "mods/simple-cobblestone-generator.pw.toml"
+hash = "f9ce7dcad86014852c9d59559bb90e04720f6bb5e7eb1e20b15847c4202c15c8"
 metafile = true
 
 [[files]]
