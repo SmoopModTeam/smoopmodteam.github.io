@@ -1,0 +1,13 @@
+name = "Iam Music Player [Forge/Fabric]"
+filename = "iammusicplayer-fabric-mc1.20-3.22.0-alpha.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "feb069d500c03dfb6a572649c5d593b7fbf7fe7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5355592
+project-id = 386380

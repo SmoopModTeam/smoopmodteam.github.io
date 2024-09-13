@@ -1,0 +1,16 @@
+name = "Smoop 2 Beta"
+author = "SmoopModTeam"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "537ca5764d5d211aef7668693bb0780333943edfab67a5cd77a815c2763fe03f"
+
+[versions]
+fabric = "0.15.10"
+minecraft = "1.20.1"
+
+[options]
+datapack-folder = "datapacks/"

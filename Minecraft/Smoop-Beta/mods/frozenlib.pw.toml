@@ -1,0 +1,13 @@
+name = "FrozenLib"
+filename = "FrozenLib-1.7.2-Fabric+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9KawNmQc/versions/rRB2SAPV/FrozenLib-1.7.2-Fabric%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "523150fd38943be9f76c50d3a30bafc39ab86d58"
+
+[update]
+[update.modrinth]
+mod-id = "9KawNmQc"
+version = "rRB2SAPV"
