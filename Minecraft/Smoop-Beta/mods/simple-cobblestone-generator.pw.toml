@@ -1,0 +1,13 @@
+name = "[Fabric] Simple Cobblestone Generator"
+filename = "simple-cobblestone-generator-1.1.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9e9f4d28bb7530ca564866b1ac296efff755a4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4862741
+project-id = 487029
