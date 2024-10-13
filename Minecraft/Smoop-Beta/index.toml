@@ -986,6 +986,11 @@ hash = "3ce78fae2cfddf385332a06bd31dc311f746385806e7d38863f6e219525e4c33"
 metafile = true
 
 [[files]]
+file = "mods/wired-redstone.pw.toml"
+hash = "6dd13e54fb6fbd88384489e33f846e68db793ed5603dfb9476ac78a4511db406"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
 hash = "6851c8692100d195a4a5b7eb9cd5e995a65d630674aca9012d84850cd556d677"
 metafile = true
