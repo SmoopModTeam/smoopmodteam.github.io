@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/saros-road-blocks.pw.toml"
-hash = "f4f0e0297d05dca960d7247c439aae5ac891df5c2fb87a5b7d09afe9f0463b07"
+hash = "0be6d35feb8557d270c1dc3c8eb5102e92791a70a0b0824094081e39a9363973"
 metafile = true
 
 [[files]]
