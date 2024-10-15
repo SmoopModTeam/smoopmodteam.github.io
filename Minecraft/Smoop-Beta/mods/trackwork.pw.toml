@@ -1,0 +1,7 @@
+name = "trackwork"
+filename = "trackwork-fabric-1.0.1-betamc1.20.1.jar"
+
+[download]
+url = "https://smoopmodteam.github.io/Minecraft/Smoop-Beta/one-offs/trackwork-fabric-1.0.1-betamc1.20.1.jar"
+hash-format = "sha1"
+hash = "8a614dca9356323ad2fd5e58c72b928fa806d2bd"
