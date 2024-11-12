@@ -466,6 +466,11 @@ hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-flowery-mooblooms-fabric.pw.toml"
 hash = "340d12c1e3a11c3b9c12a76ebc2fc82c647a0dfe76461582fe841ea0c8db87aa"
 metafile = true
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "e878f32f538088bd287eb104a95b98e219fbd950456cfc63811e0a95cb04ec2f"
+metafile = true
+
+[[files]]
+file = "mods/led.pw.toml"
+hash = "7fdbdab1d4222498d38f77dab2a7f258d3b95a6a542cc17afe832d4f309b833f"
 metafile = true
 
 [[files]]
@@ -851,6 +861,11 @@ hash = "4f6f15b3a17ed28772fe45a7cb15783a37428b259d2461564c9046b5a3540e25"
 metafile = true
 
 [[files]]
+file = "mods/simple-cobblestone-generator.pw.toml"
+hash = "f9ce7dcad86014852c9d59559bb90e04720f6bb5e7eb1e20b15847c4202c15c8"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
 metafile = true
@@ -921,6 +936,11 @@ hash = "59f49e8c23b13da62a8eb0b19127ae1de0a0cd2dff0e8483318ef56742972f76"
 metafile = true
 
 [[files]]
+file = "mods/trackwork.pw.toml"
+hash = "31bcc40ac9fef6027db5478708d857dbdbb152117aaf2dd117be8a137f6daa6e"
+metafile = true
+
+[[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
 hash = "4aaf0d3c354a1806b3c9e9e10afa850eed4031b4e368d394415d5ec5142854e3"
 metafile = true
@@ -958,6 +978,11 @@ metafile = true
 [[files]]
 file = "mods/wahoo.pw.toml"
 hash = "3ce78fae2cfddf385332a06bd31dc311f746385806e7d38863f6e219525e4c33"
+metafile = true
+
+[[files]]
+file = "mods/wired-redstone.pw.toml"
+hash = "6dd13e54fb6fbd88384489e33f846e68db793ed5603dfb9476ac78a4511db406"
 metafile = true
 
 [[files]]
@@ -1059,6 +1084,10 @@ metafile = true
 file = "mods/yungs-menu-tweaks-fabric.pw.toml"
 hash = "7f750030743730910111c4f2fa3a179be5dbdfab21cb9e2c5d2ba67b91743f15"
 metafile = true
+
+[[files]]
+file = "one-offs/trackwork-fabric-1.0.1-betamc1.20.1.jar"
+hash = "d517aa6537e0455351c0ef5a0ac7c54c55aa47ef055efe2b42e05521bfa4bc78"
 
 [[files]]
 file = "options.txt"
