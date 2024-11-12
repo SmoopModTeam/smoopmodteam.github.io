@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
-hash = "8c9265f70a829f15771c748f6a89fef07ef8d89677c78a51d61c977ea8f856e7"
+hash = "08284502f1cff20111a07569824677e2b062675e9de2277f741286ee7415b891"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "8661452972ef497ed18fc5ef81e3ab8aababe1e40ece7df049dd47c77e7b52e0"
+hash = "0998161f34280a8e4c4d7858bfc5879c111794003ed4c29e5a90eb19e08a579a"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
+hash = "e918eb82a8b5fde9bf05f4341f89db225fa74df21a21fc1bac407ab0a8c56346"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-unimplemented-items.pw.toml"
-hash = "c0cca79ddd425ab1085908284851247739606e702985d566f9e340e7014e9d67"
+hash = "56a043f037482cad43e629477f862a580c61b354b4c4481cad7cb6ab26e10df8"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "8eb262e41270d2dc38033a31e68ce9e80d664c5912afd95193c4158d7641c062"
+hash = "6b4e4ced7cb3323842a46fa78fe1e5e8ff2badd6814d09dab5ea9e5ca0f28a7c"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b084a1536f8b817f660f67535662a4a39b2525cf6be906f1a50f1d4151bc72e9"
+hash = "f4f511e34cb3d306ed778fdce41b863b0a1add55fcbe363f9c6907d681e757f5"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "761d376d1b3ded0d13204b9c6b77ee3a396846b109399088117431208067c452"
+hash = "304910eef1ff259705f772b40ca115c709ed553f0b7e096f855143589bf6cb87"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "0aab95585cd52ca54a583aa5db53395633cd88bbc309a2b09f45d623771241c2"
+hash = "a36e0e121105fa7b0f3895c06c9dc4ac430da107eba6d687ecf843527b16bd43"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "996bf4e23ceb3ebe203859eda250fddf210babc15b5683fe585159a9398e4d70"
+hash = "9d399c9d4dad20b73d05fa85c8ee9fbb660fd4e78bd4dd21780e19013b499e7c"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
-hash = "77f7866cff4f34aca70e73e257e0782846085bb276db077140b7eb86f65f2a48"
+hash = "131603e7d606cb8ea548821b4d15363179cce2ce3899e92d0f88c2e17ecfa081"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
+hash = "85be70c9a70416034724164bc1ee727f715fe9c6729ece0cfd0d0a30a61e9a6d"
 metafile = true
 
 [[files]]
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "45f242e944a475d39ec8724ebf4e1bb0d70439d3a1326c4cafdf9dd14b74261f"
+hash = "4c3e32a46a4f22ee8773b47a050a6899ba7b5beaccdea16ae27c75ef0bb8f530"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/saros-road-blocks.pw.toml"
-hash = "f4f0e0297d05dca960d7247c439aae5ac891df5c2fb87a5b7d09afe9f0463b07"
+hash = "0be6d35feb8557d270c1dc3c8eb5102e92791a70a0b0824094081e39a9363973"
 metafile = true
 
 [[files]]
@@ -867,7 +867,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
-hash = "bb57d8a6c0f2ec81e97915c00affaa644415b1d41f897d23a4972d0e9a2d5732"
+hash = "1795cd6816799c6c46070e27903b092e3a41efb4872bc71ff1b230d37a4e6000"
 metafile = true
 
 [[files]]
