@@ -286,6 +286,11 @@ hash = "e083e8da620315b21fb76fef352eb887aa849d8c8be2ac268251b0b386eb95ba"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "6b4e4ced7cb3323842a46fa78fe1e5e8ff2badd6814d09dab5ea9e5ca0f28a7c"
 metafile = true
@@ -1021,23 +1026,8 @@ hash = "e20fd212ab36de5e8e10adc05087ccb28861d05afeab8f7ab5a22b4c1197ceea"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-dungeons-fabric.pw.toml"
-hash = "e20fd212ab36de5e8e10adc05087ccb28861d05afeab8f7ab5a22b4c1197ceea"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
 hash = "ef6c989521fc38807fcbf8bccc204c0f01f2f071387c2690bdce50e77ed370a3"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
-hash = "ef6c989521fc38807fcbf8bccc204c0f01f2f071387c2690bdce50e77ed370a3"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
-hash = "c813b4aaebbdec8b97874334333fcb2fe606ad6473fe44f2cc48c6f74df12393"
 metafile = true
 
 [[files]]
@@ -1051,16 +1041,6 @@ hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
-hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds-fabric.pw.toml"
-hash = "520012b82bfa92bbd6ac71855d16119eaa7e4c3e7e29234ac00f4861dbd4b44b"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-strongholds-fabric.pw.toml"
 hash = "520012b82bfa92bbd6ac71855d16119eaa7e4c3e7e29234ac00f4861dbd4b44b"
 metafile = true
@@ -1068,16 +1048,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts-fabric.pw.toml"
 hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts-fabric.pw.toml"
-hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
-metafile = true
-
-[[files]]
-file = "mods/yungs-menu-tweaks-fabric.pw.toml"
-hash = "7f750030743730910111c4f2fa3a179be5dbdfab21cb9e2c5d2ba67b91743f15"
 metafile = true
 
 [[files]]
