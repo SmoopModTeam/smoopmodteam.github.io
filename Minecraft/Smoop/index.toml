@@ -876,6 +876,11 @@ hash = "a2efbd3f3ef9b7f19b4d9378d967ad12a750cf59b899643fc8b7b256da971b49"
 metafile = true
 
 [[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "6e275d4c3c629ed94b5ea446108280ad249b4c0efd42d3bb8b9f428860c58eea"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
@@ -941,6 +946,11 @@ hash = "31bcc40ac9fef6027db5478708d857dbdbb152117aaf2dd117be8a137f6daa6e"
 metafile = true
 
 [[files]]
+file = "mods/transmog.pw.toml"
+hash = "7c8f173a16772592b689fe4c9f453d48640f4deabb882ce11e7fe27f3ab28628"
+metafile = true
+
+[[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
 hash = "4aaf0d3c354a1806b3c9e9e10afa850eed4031b4e368d394415d5ec5142854e3"
 metafile = true
@@ -978,6 +988,11 @@ metafile = true
 [[files]]
 file = "mods/wahoo.pw.toml"
 hash = "3ce78fae2cfddf385332a06bd31dc311f746385806e7d38863f6e219525e4c33"
+metafile = true
+
+[[files]]
+file = "mods/winterly.pw.toml"
+hash = "bb1a48af3aa430322423c8176bb6108b7aa8ac2819d740261e6d07f64d7a4922"
 metafile = true
 
 [[files]]
